@@ -17,15 +17,12 @@
       "name": "3",
       "link": "https://pkaystream.cc/pl/newmovie123/",
       "poster": "https://example.com/posters/newmovie.jpg"
-      },
-      {
-      "id": 0,
-      "name": "0",
+    },
+    {
+      "id": 00,
+      "name": "00",
       "link": "https://pkaystream.cc/pl/newmovie123/",
       "poster": "https://example.com/posters/newmovie.jpg"
     }
-    }
   ]
 }
-
-
