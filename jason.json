@@ -1,8 +1,8 @@
 {
   "movies": [
     {
-      "id": 6,
-      "name": "6",
+      "id": 1,
+      "name": "1",
       "link": "https://pkaystream.cc/pl/3WL7PFguC07zL1U/",
       "poster": "https://creativereview-new.imgix.net/uploads/2024/12/AlienRomulus-scaled.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1728&h=2560"
     },
@@ -11,19 +11,12 @@
       "name": "2",
       "link": "https://pkaystream.cc/pl/eFUi4jv5OYhicmn/0-2?e=",
       "poster": "https://www.originalfilmart.com/cdn/shop/products/titanic_1997_original_film_art_713cc08c-5fe2-49d1-bd32-51a1d5890d43_5000x.jpg?v=1675533926"
+    },
+    {
+      "id": 3,
+      "name": "3",
+      "link": "https://pkaystream.cc/pl/newmovie123/",
+      "poster": "https://example.com/posters/newmovie.jpg"
     }
-
-      "id": 9,
-      "name": "9",
-      "link": "https://pkaystream.cc/pl/eFUi4jv5OYhicmn/0-2?e=",
-      "poster": "https://www.originalfilmart.com/cdn/shop/products/titanic_1997_original_film_art_713cc08c-5fe2-49d1-bd32-51a1d5890d43_5000x.jpg?v=1675533926"
-    
   ]
 }
-
-
-
-
-
-
-
